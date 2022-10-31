@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace NetworkInvestigation.ConsoleApp;
+﻿namespace NetworkInvestigation.ConsoleApp;
 
 public static class UriWrapper
 {
