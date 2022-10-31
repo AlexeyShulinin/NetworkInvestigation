@@ -2,6 +2,8 @@
 #define ENABLE_URI_TESTS
 #define ENABLE_DNS_TESTS
 
+using System.Threading.Tasks;
+
 namespace NetworkInvestigation.ConsoleApp
 {
     public static class Program
