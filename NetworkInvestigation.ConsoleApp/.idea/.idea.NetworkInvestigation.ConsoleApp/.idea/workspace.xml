@@ -4,7 +4,23 @@
     <projectFile>NetworkInvestigation.ConsoleApp/NetworkInvestigation.ConsoleApp.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="89f3d3b4-c0ac-4962-a6ad-04ed5676e62c" name="Changes" comment="" />
+    <list default="true" id="89f3d3b4-c0ac-4962-a6ad-04ed5676e62c" name="Changes" comment="Added gitignore">
+      <change afterPath="$PROJECT_DIR$/NetworkInvestigation.ConsoleApp/DnsWrapper.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NetworkInvestigation.ConsoleApp/Extensions/IpAddressExtensions.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NetworkInvestigation.ConsoleApp/IPAddressWrapper.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NetworkInvestigation.ConsoleApp/LocalSniffer.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NetworkInvestigation.ConsoleApp/UriWrapper.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.NetworkInvestigation.ConsoleApp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.NetworkInvestigation.ConsoleApp/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NetworkInvestigation.ConsoleApp/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/NetworkInvestigation.ConsoleApp/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NetworkInvestigation.ConsoleApp/bin/Debug/net6.0/NetworkInvestigation.ConsoleApp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/NetworkInvestigation.ConsoleApp/bin/Debug/net6.0/NetworkInvestigation.ConsoleApp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NetworkInvestigation.ConsoleApp/bin/Debug/net6.0/NetworkInvestigation.ConsoleApp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/NetworkInvestigation.ConsoleApp/bin/Debug/net6.0/NetworkInvestigation.ConsoleApp.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NetworkInvestigation.ConsoleApp/obj/Debug/net6.0/NetworkInvestigation.ConsoleApp.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/NetworkInvestigation.ConsoleApp/obj/Debug/net6.0/NetworkInvestigation.ConsoleApp.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NetworkInvestigation.ConsoleApp/obj/Debug/net6.0/NetworkInvestigation.ConsoleApp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/NetworkInvestigation.ConsoleApp/obj/Debug/net6.0/NetworkInvestigation.ConsoleApp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NetworkInvestigation.ConsoleApp/obj/Debug/net6.0/NetworkInvestigation.ConsoleApp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/NetworkInvestigation.ConsoleApp/obj/Debug/net6.0/NetworkInvestigation.ConsoleApp.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NetworkInvestigation.ConsoleApp/obj/Debug/net6.0/ref/NetworkInvestigation.ConsoleApp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/NetworkInvestigation.ConsoleApp/obj/Debug/net6.0/ref/NetworkInvestigation.ConsoleApp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NetworkInvestigation.ConsoleApp/obj/Debug/net6.0/refint/NetworkInvestigation.ConsoleApp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/NetworkInvestigation.ConsoleApp/obj/Debug/net6.0/refint/NetworkInvestigation.ConsoleApp.dll" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,8 +71,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1667246853733</updated>
-      <workItem from="1667246859058" duration="351000" />
+      <workItem from="1667246859058" duration="5161000" />
     </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <created>1667247360199</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1667247360199</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Added gitignore">
+      <created>1667251682541</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1667251682541</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -77,5 +108,27 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="Initial commit" />
+    <MESSAGE value="Added gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added gitignore" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/NetworkInvestigation.ConsoleApp/LocalSniffer.cs</url>
+          <line>10</line>
+          <properties documentPath="D:\OwnProjects\NetworkInvestigation\NetworkInvestigation.ConsoleApp\NetworkInvestigation.ConsoleApp\LocalSniffer.cs" initialLine="10" containingFunctionPresentation="method 'GetLocalAddress'">
+            <startOffsets>
+              <option value="213" />
+            </startOffsets>
+            <endOffsets>
+              <option value="289" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

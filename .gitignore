@@ -1,11 +1,10 @@
-﻿**/node_modules
-**/.vs/
+﻿**/.vs/
 **/.vscode/
 **/.idea/
 **/bin/
+**.dll
 **/obj/
 *.user
 *.jfm
 *.dbmdl
-node_modules
 **/logs
